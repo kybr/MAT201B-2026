@@ -11,14 +11,14 @@
 // turn a little towards the agent
 // move towards the agent
 
-#include <iostream>
-
 #include "al/app/al_App.hpp"  // al::App
 #include "al/app/al_GUIDomain.hpp"
 #include "al/graphics/al_Shapes.hpp"
 #include "al/math/al_Random.hpp"
 
+#include <vector>
 // #include <set>
+// #include <iostream>
 
 using namespace al;
 
